@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "736692148606",
+    "firebase_url": "https://fars-6636e.firebaseio.com",
+    "project_id": "fars-6636e",
+    "storage_bucket": "fars-6636e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736692148606:android:7b25798b59c28bad",
+        "android_client_info": {
+          "package_name": "com.example.harishram.fars"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736692148606-vjl522cte46o1357tvs3c6ej7mpeefqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCJyQ2No3eZNmZ_BBfE47afYpm9B2DruI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

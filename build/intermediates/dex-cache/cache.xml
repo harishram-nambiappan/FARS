@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-gson\1.22.0\ca557a4630f5d4690f008fe32231c7f41701c35d\google-api-client-gson-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ca557a4630f5d4690f008fe32231c7f41701c35d">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-gson-1.22.0_b8dd898f10eaaf32a17f55f88a2436e7e2fc8b67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="93fa86c8b7e79336f5cb48e28e7e3ce669f344de">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ac6bf9ff1327d2d13a6485b0a5df33108d23c304\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\tubesock-0.0.12_b1f11a9ede5c7e7b0478debad24462bc4b311904\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_58b99ded90b49ab1dab50502a4de5118ff1ec228\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_9f96b87463a300667ea5960f5efabc276139b36b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\jsr305-1.3.9_c376e034f6e267762ed1dee9cfbee78e852f3ff9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.22.0\1d63f369ac78e4838a3197147012026e791008cb\google-oauth-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-oauth-client-1.22.0_862e9431764739fce7a14877f6d22e3f14ddc07d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_cba2005aa901cbe72c46b3d189fe33fe5c12932f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.0_3b1fc6d894a36493f861faaf82b4651ad10694c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-core-2.2.2_49bc05c0a36e098d5139482540fd9c9accda2111\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.google.guava\guava-jdk5\17.0\463f8378feba44df7ba7cd9272d01837dad62b36\guava-jdk5-17.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\guava-jdk5-17.0_cb17ad6e93ce85fe1b6d3b829e1cdc4b44384d05\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.0_8e9c1d04481c5f981808ad0c9283b3baed6699c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_477b77765fe0d2fd9c55a68e0a4fb2bd159bf027\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-databind-2.2.2_ac9fea40c98795ef7ecefd2be5ad547c62e4b657\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.5.0\c0af904657634f7ab9cc21e75d80250570033321\firebase-client-jvm-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="c0af904657634f7ab9cc21e75d80250570033321">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-jvm-2.5.0_23ec3450bb4ba64642f39aa8f1ae922b5912f1af\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.0_fe7ef715315a27e4c51a6208da127615ffad3ec6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client\1.22.0\244350c0c845c583717ade13f5666a452fd0cfa\google-api-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-1.22.0_e353c646c726789832e7668561eb2ef0a1426f4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.0_3ed577c759dbdd008d68870de141ced3b395057d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.0_a99a171f111fd12311f7179e2527280432e75ae1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_772b49b087ed33e336bc917121bd5d38bc27855e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.22.0\d441fc58329c4a4c067acec04ac361627f66ecc8\google-http-client-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d441fc58329c4a4c067acec04ac361627f66ecc8">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-1.22.0_b9a4a82bc3921531f8d896fc77fca3bfa1ddad0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-gson\1.22.0\826b874fa410a8135b7094c469951bf0dadb0c10\google-http-client-gson-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="826b874fa410a8135b7094c469951bf0dadb0c10">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-gson-1.22.0_ae57fc7a297dc80fc0469f3465f8fb966449679f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.google.api-client\google-api-client-android\1.22.0\7a0fe12b7d8189a821934d6f9d6586d00180e461\google-api-client-android-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7a0fe12b7d8189a821934d6f9d6586d00180e461">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-api-client-android-1.22.0_06e6bae3bd89fa9b3b49c23847216cfabdd2ebae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.0_c8f27517e6171a3426feb9d65b95f624db8b2938\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.0_b0ba9ea21ae99b772a6cdde3e3e8557cc13073d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.0_6b3fe3747dfaf82f09b2981774859094163a4dc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_070b730f671bcd6063ed8c1cf71da80608fa0c20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-jackson2\1.22.0\cc014d64ae11117e159d334c99d9c246d9b36f44\google-http-client-jackson2-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-jackson2-1.22.0_c94468b396d2a3813cf7e0cd8a796bc111a419f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_ba1fe04457788e6f06206e88b4cb9f4c127e434e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8c749b4f356bba33a34c3cb00fceb43600ac4fe5">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c7c3bc7df7de69fd445e00199fd558d2d9fd7b98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.0_6ec5b681f2364e60f3a13694bfff6cebf37088f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\jackson-annotations-2.2.2_dd818a2cdd9be58e45b59d78b43ea068f91997b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.5.0\7d0473896b3b10b23a2f9812fec4316dff8afdd\firebase-client-android-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="07d0473896b3b10b23a2f9812fec4316dff8afdd">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\firebase-client-android-2.5.0_a00a7d8932386359e26e3ad0a4172b7aca1981f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\uta\android_projects\FARS\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_01f9b36a14a6af8a15a1e2be79f93357205280e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Harish Ram\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client-android\1.22.0\6d1e1a76a16a244ab2f41775791be1dd0ec2878a\google-http-client-android-1.22.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="6d1e1a76a16a244ab2f41775791be1dd0ec2878a">
+        <dex dex="D:\uta\android_projects\FARS\app\build\intermediates\transforms\dex\debug\folders\1000\10\google-http-client-android-1.22.0_a4a90f7a1abe9a2fa4cb376b5c7acba3281c3040\classes.dex" />
+    </item>
+
+</items>

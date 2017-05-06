@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">FARS</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string-array name="Security_Questions">
+        <item>
+            Which is your favorite sport?
+        </item>
+        <item>Who is your role model in life?</item>
+        <item>With which favorite person you would like to travel to any place? </item>
+        <item>What was the name of your favorite fifth grade teacher?</item>
+    </string-array>
+    <string-array name="Report_reason">
+        <item>Not Relevant</item>
+        <item>Annoying</item>
+        <item>Spam</item>
+        <item>Offensive</item>
+        <item>Illegal</item>
+        <item>Not sure</item>
+    </string-array>
+    <string-array name="Ad_options">
+        <item>Delete</item>
+        <item>Edit</item>
+    </string-array>
+    <item name="r1" type="id" />
+    <item name="r2" type="id" />
+    <item name="r3" type="id" />
+    <item name="r4" type="id" />
+    <item name="r5" type="id" />
+    <item name="r6" type="id" />
+    <item name="r7" type="id" />
+    <item name="r8" type="id" />
+    <item name="r9" type="id" />
+    <item name="r10" type="id" />
+    <item name="r11" type="id" />
+    <item name="r12" type="id" />
+    <string name="title_activity_forgot_password">ForgotPasswordActivity</string>
+
+</resources>

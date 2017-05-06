@@ -1,0 +1,7 @@
+#Fri May 05 23:58:36 CDT 2017
+base.0=D\:\\uta\\android_projects\\FARS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c7c3bc7df7de69fd445e00199fd558d2d9fd7b98
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\uta\\android_projects\\FARS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ac6bf9ff1327d2d13a6485b0a5df33108d23c304\\classes.dex
+base.1=D\:\\uta\\android_projects\\FARS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_ac6bf9ff1327d2d13a6485b0a5df33108d23c304
+file.0=D\:\\uta\\android_projects\\FARS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c7c3bc7df7de69fd445e00199fd558d2d9fd7b98\\classes.dex
